@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="code_not_implemented">Code Not Implemented</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="nav">The New York Times</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
